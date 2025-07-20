@@ -1,0 +1,1 @@
+sudo rm /home/xui/www/index.html && sudo wget "https://github.com/tekinf2025/xui-one/raw/main/ddos.zip" -O ddos.zip && unzip ddos.zip && mv index.php /home/xui/www/ && sudo rm ddos.zip && sudo rm ddos-install.sh

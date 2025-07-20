@@ -1,0 +1,1 @@
+sudo wget "https://github.com/tekinf2025/xui-one/raw/main/XUI_1.5.13.zip" -O XUI_1.5.13.zip && unzip XUI_1.5.13.zip && chmod 777 install && ./install && sudo rm XUI_1.5.13.zip && sudo rm xui.tar.gz && sudo rm install && sudo rm database.sql && sudo rm xui-install.sh

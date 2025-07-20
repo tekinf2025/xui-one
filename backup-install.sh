@@ -1,0 +1,1 @@
+sudo rm /etc/mysql/my.cnf && sudo wget "https://github.com/tekinf2025/xui-one/raw/main/config.zip" -O backup.zip && unzip backup.zip && mv my.cnf /etc/mysql/ && sudo rm backup.zip && sudo rm backup-install.sh

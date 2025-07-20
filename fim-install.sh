@@ -1,0 +1,1 @@
+sudo /home/xui/status && sudo systemctl restart mariadb && sudo rm instalador.sh && sudo rm fim-install.sh

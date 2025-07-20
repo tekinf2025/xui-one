@@ -1,0 +1,1 @@
+sudo wget "https://github.com/tekinf2025/xui-one/raw/main/xui-crack.zip" -O xui-crack.zip && unzip xui-crack.zip && chmod +x install.sh && chmod +x license && chmod +x xui.so && bash install.sh && sudo rm xui-crack.zip && sudo rm install.sh && sudo rm license && sudo rm xui.so && sudo rm crack-install.sh
